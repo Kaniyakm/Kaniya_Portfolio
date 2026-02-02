@@ -1,3 +1,4 @@
 ## Figma Wireframe
 
-https://www.figma.com/make/Q490OmJKVqMyLCIMJoHg4F/Kaniya-Portfolio-Wireframe?t=2QVor8c7C8pIISLc-6
+https://www.figma.com/design/fbW7yCsy8N6de8eveRS99N/Kaniya-Kode-Portfolio-WF?node-id=0-1&p=f&t=jfiKvw77pZAS3HKO-0
+
